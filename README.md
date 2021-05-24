@@ -2,5 +2,5 @@
 
 Admin Account: 
 + username: admin
-+ password: adadad
++ password: admin
 # web-ban-hang-dien-tu
